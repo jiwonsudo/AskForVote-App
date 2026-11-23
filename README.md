@@ -1,6 +1,16 @@
-# AskForVote-App
-**유저가 질문하면 다른 유저들이 그 질문에 대한 의견을 투표하는 SNS 형식의 iOS 어플리케이션**
+<div align="center">
 
+# 🗳️ AskForVote
+
+**질문을 올리면 다른 사람들이 투표로 답하는, 투표 중심 SNS iOS 앱**
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" alt="UIKit">
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+
+<img src="images/TestLogo.png" width="120" alt="AskForVote 로고">
+
+</div>
 ## 개발 의도
 * 유튜브, 인스타그램 등 커뮤니티성 웹, 앱에서 '투표' 기능이 사용되는 횟수가 증가함을 인식했습니다.
 <br>사람들은 투표를 의견 조사에만 활용하지 않고, 단순히 이야기의 주제를 제공하거나 유희를 위해 투표 기능을 사용하는 경우가
@@ -31,4 +41,3 @@
 
 - **RGB** : 118, 28, 235
 - **HEX** : #761ceb
-
